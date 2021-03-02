@@ -3,9 +3,10 @@ Conducting examination in a smoothly manner is a crucial task for an invigilator
 
 # Steps to Develop Hand Gesture Recognition
 The steps are divided into the following three parts:
-1) Creating a dataset
-2) Training a CNN on the captured dataset
-3) Predicting the data
+1) Generate and Prepare the Data
+2) Generate Features
+3) Training a CNN on the captured dataset
+4) Predicting the data
 
 # Dataset Creation
 Used live feed from the video camera to create the dataset.
